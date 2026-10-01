@@ -1,0 +1,12 @@
+# PowerPoint temporary files
+~$*.pptx
+~$*.ppt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
